@@ -8,8 +8,7 @@
 </p>
 <div class="display">
 <h1 style="text-align: center;" align="center"> Info </h1>
-  <p style="text-align: center;"align="center">○ Age: 17 <br></p>
-  <p style="text-align: center;"align="center">○ Location: Hell, Michigan<br></p>
+  <p style="text-align: center;"align="center">○ Age: 17 <br></p><p style="text-align: center;"align="center">○ Location: Hell, Michigan<br></p>
 <h1 style="text-align: center;" align="center"> Social </h1>
   <a href="https://discord.com/users/499246814931845120"> <p style="text-align: center;"align="center">○ Discord Profile</p></>
     </div></div>
